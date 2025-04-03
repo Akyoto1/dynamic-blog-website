@@ -56,7 +56,7 @@ section {
 button {
   padding: 10px 20px;
   background-color: #a6c9ed;
-  color: white;
+  color: rgb(130, 144, 224);
   border: none;
   border-radius: 5px;
   cursor: pointer;
